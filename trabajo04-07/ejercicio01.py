@@ -1,0 +1,1 @@
+print("codigo del ejercicio 01")
